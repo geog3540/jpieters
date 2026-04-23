@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Page</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      background: #f9f9f9;
+    }
+
+    img {
+      width: 300px;
+      border-radius: 12px;
+    }
+
+    p {
+      font-size: 1.5rem;
+      margin-top: 20px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="your-image.jpg" alt="my image">
+  <p>Your text here</p>
+
+  <script>
+    // JavaScript goes here if needed
+    console.log("Page loaded!");
+  </script>
+
+</body>
+</html>
