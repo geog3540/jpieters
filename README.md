@@ -1,2 +1,2 @@
 # jpieters
-geog3540/jpieters - Pieters, Jack
+Here's my repository for my Spring GeoVisualization class with Dr. Caglar Koylu!
